@@ -27,7 +27,7 @@ function Main() {
     },
     {
       enabled: false,
-      retry: 2,
+      retry: 0,
       onSuccess: (res) => {
         submitRefOption(true, '신중하게 메뉴 추천중입니다.', '#666666');
         inputRef.current.textContent = '';
