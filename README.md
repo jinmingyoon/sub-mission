@@ -18,7 +18,6 @@ backend
 - springboot
 - jap
 - gradle
-- lombok
 - postgresql
 
 front
@@ -30,7 +29,7 @@ front
 ```
 backend
  common/
-  ㄴ 공통 관련 exceptin, swagger
+  ㄴ 공통 관련 exception, swagger
  food/
   ㄴ API 기능 관련 controller, dto, entity, repository, service
 
