@@ -39,7 +39,7 @@ front
     helper/
     - 화면 필요한 스타일, 타입스크립트 작성시 필요한 인터페이스
     service/
-    - rest api 통신을 위한 aixo
+    - rest api 통신을 위한 axio
 ```
 
 # swagger-ui
